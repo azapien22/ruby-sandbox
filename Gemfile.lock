@@ -1,6 +1,6 @@
 GEM
   remote: https://rubygems.org/
-  specs:
+  specs:#test
     activesupport (8.0.1)
       base64
       benchmark (>= 0.3)

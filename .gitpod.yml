@@ -1,6 +1,6 @@
 image: firstdraft/appdev-rails-template
 
-tasks:
+tasks:#test
   - before: |
       sudo cp -r /home/student /home/gitpod
       (cd /home/gitpod/student; sudo find . -maxdepth 1 -exec mv {} .. \;)
